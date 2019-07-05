@@ -29,7 +29,6 @@ print(
 )
 
 data = [[1,2],[3,4]]
-
 tensor = torch.FloatTensor(data)
 data = np.array(data)
 print(
